@@ -101,6 +101,7 @@ EOT;
         }
         img {
           left: 50%;
+          max-width: 98%;
           position: absolute;
           top: 50%;
           transform: translate(-50%, -50%);
